@@ -1,7 +1,7 @@
 from os import makedirs
 from os.path import join, exists
 
-REGISTER_EMAIL = "armandocalvo06@gmail.com"
+REGISTER_EMAIL = ""
 
 NEW_INVOICES_PATH = join(".", "resources", "new", "invoices")
 NEW_PICTURES_PATH = join(".", "resources", "new", "pictures")
